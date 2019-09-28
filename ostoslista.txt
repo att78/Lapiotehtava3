@@ -2,3 +2,4 @@
 "paljon rivej„ tai muuten vain jotakin kaupasta\n"  
 "paljon riveja tai banaaneja"  
 "paljon rivej„ tai muuten vain jotakin kaupasta\n"  
+päärynöitä
