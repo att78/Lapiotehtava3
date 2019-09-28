@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 jostain syystä tähän tuli ne "" merkit echoa käyttäessä.
 "joku p�tk� teksti�" 
+=======
+"" 
+"joku pieni teksti, joka osoittaa muokkauksen" 
+>>>>>>> Stashed changes
