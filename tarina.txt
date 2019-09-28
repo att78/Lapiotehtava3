@@ -1,2 +1,2 @@
-"" 
-"joku p�tk� teksti�" 
+jostain syystä tähän tuli ne "" merkit echoa käyttäessä.
+"joku p�tk� teksti�" 
